@@ -1,0 +1,14 @@
+{
+  "public" : {
+    "pushwoosh" : {
+      "appId": "XXXXX-XXXXX",
+      "google": {
+        "project_number": "GOOGLE PROYECT"
+      }
+    }
+  },
+  "pushwoosh": {
+    "appId": "XXXXX-XXXXX",
+    "token": "API TOKEN"
+  }
+}
